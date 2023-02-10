@@ -1,9 +1,9 @@
 ## Hiya 👋
 
-Just a rookie coder trying to find her way
+Just trying to swim, not sink
 
 - 🌱 I’m currently learning ... C++ basics
-- 🔭 I’m currently working on ... building a break timer
+- 🔭 I’m currently working on ... Mongo 6 upgrades *panic*
 - ⚡ Fun fact: Icecream on raisin toast is a good combo
 
 ## Stuff I'm playing with
@@ -12,7 +12,7 @@ Just a rookie coder trying to find her way
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
+![Cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
