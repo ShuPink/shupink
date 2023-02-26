@@ -3,7 +3,7 @@
 Just trying to swim, not sink
 
 - 🌱 I’m currently learning ... C++ basics
-- 🔭 I’m currently working on ... Mongo 6 upgrades *panic*
+- 🔭 I’m currently working on ... work I guess ⛏️
 - ⚡ Fun fact: Icecream on raisin toast is a good combo
 
 ## Stuff I'm playing with
@@ -21,6 +21,9 @@ Just trying to swim, not sink
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
 
 #### 🗺️ Exploring
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
