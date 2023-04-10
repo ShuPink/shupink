@@ -39,8 +39,10 @@ Just trying to swim, not sink
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Win32](https://img.shields.io/badge/Win32-008484?style=flat&logo=windows95&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-%23A30701?style=flat&logo=chai&logoColor=white)
 
 #### 🕰️ Good ol' analytics days
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
